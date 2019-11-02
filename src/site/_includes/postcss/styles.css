@@ -200,3 +200,27 @@ footer {
     border-bottom: solid 1px $text-color;
   }
 }
+
+.flex-container {
+  padding: 20px;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  -ms-flex-direction: column;
+  -webkit-flex-flow: row wrap; 
+  flex-flow: row wrap; 
+  display: -webkit-box;
+  display: flex;
+}
+
+.flex-container .flex-image { 
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto; 
+  width: 200px;  
+  margin: 10px;
+}
+
+.flex-container .flex-image img { 
+  width: 100%; 
+  height: auto; 
+}
