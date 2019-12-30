@@ -1,7 +1,7 @@
 ---
-title: A Title Goes Here
+title: Doppelgarrett
 layout: layouts/base.njk
-subtitle: This is a subtitle
+subtitle: 
 ---
 
 ## H2
