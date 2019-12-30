@@ -1,10 +1,10 @@
 ---
 title: Doppelgarrett
-subtitle: Jack, this is where you put the intros to rule all intros. People will be navigating to this strange obscure website to be axiously greeting by this amazing prelude. As they drink in every last doppelgarrett on this amazing site, they will chuckle occasionally as they think back to that amazing time they read this site intro. Cheers.
+subtitle: When you're a lifelong fan of America's Team and your entire fantasy football league says you share a stunning resemblance to their head coach...you set up a green screen in your basement and have your wife film you clapping, flapping, and chewing.
 layout: layouts/base.njk
 ---
 
-<h2 class="text-center">Doppel 1 Title</h2>
+<h2 class="text-center">Crazy Eyes</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/1_garrett.jpg">
@@ -14,7 +14,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 2 Title</h2>
+<h2 class="text-center">Hunch Tongue</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/2_garrett.jpg">
@@ -24,7 +24,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 3 Title</h2>
+<h2 class="text-center">Angel Wings</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/3_garrett.gif">
@@ -34,7 +34,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 4 Title</h2>
+<h2 class="text-center">Grin</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/4_garrett.jpg">
@@ -44,7 +44,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 5 Title</h2>
+<h2 class="text-center">Chomp</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/5_garrett.gif">
@@ -54,7 +54,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 6 Title</h2>
+<h2 class="text-center">Bicep</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/6_garrett.jpg">
@@ -64,7 +64,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 7 Title</h2>
+<h2 class="text-center">Bicep</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/7_garrett.gif">
@@ -74,7 +74,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 8 Title</h2>
+<h2 class="text-center">Focused</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/8_garrett.jpg">
@@ -84,7 +84,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 9 Title</h2>
+<h2 class="text-center">Sniffle</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/9_garrett.gif">
@@ -94,7 +94,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 10 Title</h2>
+<h2 class="text-center">Flag Slam</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/10_garrett.gif">
@@ -104,7 +104,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 11 Title</h2>
+<h2 class="text-center">Spit</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/11_garrett.gif">
@@ -114,7 +114,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 12 Title</h2>
+<h2 class="text-center">Dead Eyes</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/12_garrett.gif">
@@ -124,7 +124,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Doppel 13 Title</h2>
+<h2 class="text-center">Clap and Chew</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/13_garrett.gif">
