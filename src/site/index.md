@@ -64,7 +64,7 @@ layout: layouts/base.njk
   </div>
 </div>
 
-<h2 class="text-center">Bicep</h2>
+<h2 class="text-center">Disbelief</h2>
 <div class="flex-container">
   <div class="flex-image">
     <img src="images/7_garrett.gif">
